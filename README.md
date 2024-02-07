@@ -7,10 +7,7 @@ This document provides a comprehensive guide for setting up and using the
 FAQ Chatbot designed for the University of New Haven. The bot leverages a
 large language model, LangChain, and a vector database (Pinecone) to
 deliver accurate answers to students' inquiries.
-Code Link: https://github.com/VAMSINADH2000/AI-UNH-FAQ-BOT
-ScreenShots
-App Architecture
-
+Code Link: (https://github.com/MSDS-Virtual-Advisor-Project/MSDS-Chatbot/)
 Project Structure
 The project consists of two main Python files:
 • `main flask app.py`: The Flask server and web application responsible
