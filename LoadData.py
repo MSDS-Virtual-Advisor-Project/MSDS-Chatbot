@@ -19,7 +19,7 @@ load_dotenv(find_dotenv())
 
 with open('url_mapping.json', 'r', encoding='utf-8') as file:
     url_mapping = json.load(file)
-
+//hghv
 def configure():
     # os.environ["OPENAI_API_KEY"] = "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"
     nest_asyncio.apply()
